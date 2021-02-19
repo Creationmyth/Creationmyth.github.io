@@ -5,7 +5,7 @@ title: Creationmyth's blog
         <h1>{{ page.title }}</h1>
         <ul class="posts">
         
-          {% for in site.posts %}
+          {% for in "site.posts" %}
             <li><span>{{ post.date | date_to_string }}</span> >> <a href="{{ posts.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
           {% endfor %}
         </ul>
