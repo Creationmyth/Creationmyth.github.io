@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creationmyth, the myth of the creator, launches site
+title: "Creationmyth, the myth of the creator, launches site"
 date: 2021-02-19
 ---
 
