@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "The newest box is out with the T.G Accel synchro cards with new characters."
 date: 2021-02-28
 ---
