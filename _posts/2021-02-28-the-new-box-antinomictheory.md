@@ -1,7 +1,7 @@
 ---
 layout: posts
-Title: The newest box is out with the T.G Accel synchro cards with new characters.
-Date: 2021-02-28
+title: The newest box is out with the T.G Accel synchro cards with new characters.
+date: 2021-02-28
 ---
 The all new box in Duel Links is here, Antimony's Theory. It is a really cool box as it has many accel synchro monsters and it is quite fun to play with - of course doing it in loaner deck duels.
 The new character too is one of Yusei's friend in the yugioh 5ds anime and he is quite cool.
