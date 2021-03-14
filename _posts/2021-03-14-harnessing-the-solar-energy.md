@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Can you truly harness the sun's energy?'
+title: "Can you truly harness the sun's energy?"
 date: 2021-03-14
 ---
 
