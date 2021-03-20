@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2fb7769-ffb7-4ee9-80bb-2b54393bdeaa" name="Default Changelist" comment="" />
+    <list default="true" id="f2fb7769-ffb7-4ee9-80bb-2b54393bdeaa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-20-unix-commands-i-learnt.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-20-unix-commands-i-learnt.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1q1BmYkavfhfseXg9nS9qtcHp8m" />
   <component name="ProjectViewState">
