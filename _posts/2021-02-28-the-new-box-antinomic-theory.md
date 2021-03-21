@@ -1,5 +1,6 @@
 ---
-layout: post title: "The all new box with the T.G cards and much more "
+layout: post
+title: "The all new box with the T.G cards and much more "
 date: 2021-02-28
 ---
 
