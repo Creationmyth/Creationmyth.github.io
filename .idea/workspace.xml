@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2fb7769-ffb7-4ee9-80bb-2b54393bdeaa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-20-unix-commands-i-learnt.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-20-unix-commands-i-learnt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-03-21-games-games-games.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,18 @@
       <option name="presentableId" value="Default" />
       <updated>1616237389733</updated>
     </task>
+    <task id="LOCAL-00001" summary="my first own commit">
+      <created>1616238500730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616238500730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my first own commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="my first own commit" />
   </component>
 </project>
