@@ -70,7 +70,8 @@ ul.posts li {
 }
 
 ul.posts li:hover {
-    background-color: #f0f0f0; /* Lighter background color on hover */
+    transform: translateY(-5px); /* Move up on hover for a subtle effect */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); /* Add shadow on hover */
 }
 
 ul.posts li a {
