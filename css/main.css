@@ -52,11 +52,32 @@ nav ul li a:hover {
     color: #fff; /* White text color on hover */
 }
 
-/* Paragraphs */
-p {
-    font-size: 1.2em;
-    line-height: 1.6em;
-    color: #fff; /* White color for paragraphs */
+/* Blog List */
+ul.posts {
+    margin: 20px auto 40px;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+    justify-content: center; /* Center items horizontally */
+}
+
+ul.posts li {
+    margin: 10px; /* Add spacing between items */
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s; /* Smooth transition on hover */
+}
+
+ul.posts li:hover {
+    background-color: #f0f0f0; /* Lighter background color on hover */
+}
+
+ul.posts li a {
+    display: block;
+    padding: 20px;
+    color: #333;
+    text-decoration: none;
 }
 
 /* Footer */
@@ -85,20 +106,4 @@ footer a {
 
 footer a:hover {
     color: #f0f0f0;
-}
-
-/* Post List */
-ul.posts {
-    margin: 20px auto 40px;
-    font-size: 1.2em;
-    list-style: none;
-    padding: 0;
-}
-
-ul.posts li {
-    margin-bottom: 20px;
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 20px;
 }
