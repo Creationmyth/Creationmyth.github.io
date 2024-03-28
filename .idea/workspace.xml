@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2fb7769-ffb7-4ee9-80bb-2b54393bdeaa" name="Default Changelist" comment="Made it more friendly to phone users">
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+    <list default="true" id="f2fb7769-ffb7-4ee9-80bb-2b54393bdeaa" name="Default Changelist" comment="Made the list of blog posts more attractive">
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616237389733</updated>
-      <workItem from="1711647430983" duration="3815000" />
+      <workItem from="1711647430983" duration="4160000" />
     </task>
     <task id="LOCAL-00001" summary="my first own commit">
       <created>1616238500730</created>
@@ -273,7 +273,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711657265074</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Made the list of blog posts more attractive">
+      <option name="closed" value="true" />
+      <created>1711657386964</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1711657386964</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Made the list of blog posts more attractive">
+      <option name="closed" value="true" />
+      <created>1711657465126</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1711657465126</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Made the list of blog posts more attractive">
+      <option name="closed" value="true" />
+      <created>1711657554070</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1711657554070</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +314,8 @@
     <MESSAGE value="CHanged CSS to make nav bar take up entire space up top - makes it look better" />
     <MESSAGE value="Changed the posts list to make the format look better" />
     <MESSAGE value="Made it more friendly to phone users" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made it more friendly to phone users" />
+    <MESSAGE value="Made the list of blog posts more attractive" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made the list of blog posts more attractive" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
