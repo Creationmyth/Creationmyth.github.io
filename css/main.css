@@ -62,6 +62,11 @@ ul.posts {
     list-style: none; /* Remove bullet points */
 }
 
+/* Additional CSS to remove remaining bullet points */
+ul.posts li {
+    list-style: none;
+}
+
 ul.posts li {
     margin: 10px; /* Add spacing between items */
     background-color: #fff;
