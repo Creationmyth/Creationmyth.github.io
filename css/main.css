@@ -51,7 +51,7 @@ footer {
 /* Post List */
 ul.posts {
     margin: 20px auto 40px;
-    font-size: 1.2em; /* Slightly smaller font size for post list */
+    font-size: 1.2em; /* Slightly smaller font sizes for post list */
     list-style: none;
     padding: 0; /* Removed default padding */
 }
