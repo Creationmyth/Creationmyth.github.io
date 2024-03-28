@@ -14,13 +14,20 @@ nav {
     background-color: #333; /* Dark background color */
     padding: 10px 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+    text-align: center; /* Center align text */
+}
+
+nav h1 {
+    margin: 0; /* Remove default margin */
+    font-size: 2em; /* Adjust font size */
+    color: #fff; /* White color for headings */
+    padding: 10px; /* Add padding */
 }
 
 nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
-    text-align: center;
 }
 
 nav ul li {
@@ -43,13 +50,6 @@ nav ul li a {
 nav ul li a:hover {
     background-color: #007bff; /* Darker background color on hover */
     color: #fff; /* White text color on hover */
-}
-
-/* Headings */
-h1 {
-    font-size: 3em;
-    color: #fff; /* White color for headings */
-    text-align: center;
 }
 
 /* Paragraphs */
