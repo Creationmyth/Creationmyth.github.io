@@ -64,7 +64,7 @@ ul.posts {
 
 /* Additional CSS to remove remaining bullet points */
 ul.posts li {
-    list-style: none;
+    list-style: none !important;
 }
 
 ul.posts li {
