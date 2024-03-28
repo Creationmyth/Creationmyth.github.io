@@ -46,7 +46,25 @@ footer {
     font-size: 0.9em;
     padding: 20px 0;
     text-align: center;
-    background-color: #f9f9f9;
+    background: linear-gradient(45deg, #ff6f61, #007bff); /* Same gradient background as body */
+}
+
+footer ul {
+    margin: 0;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+footer a {
+    color: #fff; /* White color for footer links */
+}
+
+footer a:hover {
+    color: #f0f0f0; /* Lighter color on hover */
 }
 
 /* Post List */
