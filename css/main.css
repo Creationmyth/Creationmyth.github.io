@@ -2,8 +2,8 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: 'Arial', sans-serif; /* Changed font for better readability */
-    background-color: #f7f7f7; /* Light gray background */
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5; /* Light gray background */
 }
 
 /* Navigation and Footer */
@@ -19,8 +19,8 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: #555; /* Darker link color */
-    transition: color 0.3s; /* Smooth color transition on hover */
+    color: #ff6f61; /* Vibrant red link color */
+    transition: color 0.3s;
 }
 
 a:hover {
@@ -34,32 +34,32 @@ h1 {
 }
 
 p {
-    font-size: 1.2em; /* Slightly smaller font size for paragraphs */
-    line-height: 1.6em; /* Increased line height for better readability */
+    font-size: 1.2em;
+    line-height: 1.6em;
     color: #666; /* Dark gray paragraph color */
 }
 
 /* Footer */
 footer {
-    border-top: 1px solid #ccc; /* Lighter border color */
-    font-size: 0.9em; /* Slightly smaller font size for footer */
-    padding: 20px 0; /* Added padding for better spacing */
-    text-align: center; /* Center align footer content */
-    background-color: #f9f9f9; /* Light background color for footer */
+    border-top: 1px solid #ccc;
+    font-size: 0.9em;
+    padding: 20px 0;
+    text-align: center;
+    background-color: #f9f9f9;
 }
 
 /* Post List */
 ul.posts {
     margin: 20px auto 40px;
-    font-size: 1.2em; /* Slightly smaller font sizes for post list */
+    font-size: 1.2em;
     list-style: none;
-    padding: 0; /* Removed default padding */
+    padding: 0;
 }
 
 ul.posts li {
-    margin-bottom: 20px; /* Added spacing between individual posts */
+    margin-bottom: 20px;
     background-color: #fff; /* White background for posts */
-    border-radius: 5px; /* Rounded corners for posts */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added box shadow for depth */
-    padding: 20px; /* Added padding for post content */
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
 }
