@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2fb7769-ffb7-4ee9-80bb-2b54393bdeaa" name="Default Changelist" comment="Updating CSS of the file" />
+    <list default="true" id="f2fb7769-ffb7-4ee9-80bb-2b54393bdeaa" name="Default Changelist" comment="Changed about section">
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616237389733</updated>
-      <workItem from="1711647430983" duration="2862000" />
+      <workItem from="1711647430983" duration="3166000" />
     </task>
     <task id="LOCAL-00001" summary="my first own commit">
       <created>1616238500730</created>
@@ -231,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711656189618</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Changed about section">
+      <option name="closed" value="true" />
+      <created>1711656614549</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711656614549</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +254,8 @@
     <MESSAGE value="Just adding on" />
     <MESSAGE value="Creating About page, testing to see if it works out the way I think it works" />
     <MESSAGE value="Updating CSS of the file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating CSS of the file" />
+    <MESSAGE value="Changed about section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed about section" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

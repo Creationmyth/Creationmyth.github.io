@@ -20,7 +20,7 @@ nav {
 nav h1 {
     margin: 0; /* Remove default margin */
     font-size: 2em; /* Adjust font size */
-    color: #fff; /* White color for headings */
+    color: rgba(255, 255, 255, 0.8); /* Off-white color with reduced opacity */
     padding: 10px; /* Add padding */
 }
 
@@ -41,7 +41,7 @@ nav ul li:last-child {
 
 nav ul li a {
     text-decoration: none;
-    color: #fff; /* White color for links */
+    color: rgba(255, 255, 255, 0.8); /* Off-white color with reduced opacity */
     padding: 10px 20px; /* Padding around links */
     border-radius: 5px; /* Rounded corners */
     transition: background-color 0.3s, color 0.3s; /* Smooth transition on hover */
