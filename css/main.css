@@ -4,6 +4,9 @@ body {
     padding: 0;
     font-family: 'Arial', sans-serif;
     background: linear-gradient(45deg, #ff6f61, #007bff); /* Vibrant gradient background */
+    min-height: 100vh; /* Ensure body takes up at least the height of the viewport */
+    display: flex;
+    flex-direction: column; /* Arrange content in a column layout */
 }
 
 /* Navigation */
@@ -47,6 +50,7 @@ footer {
     padding: 20px 0;
     text-align: center;
     background: linear-gradient(45deg, #ff6f61, #007bff); /* Same gradient background as body */
+    margin-top: auto; /* Push footer to the bottom of the page */
 }
 
 footer ul {
