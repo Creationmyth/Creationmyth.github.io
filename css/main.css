@@ -4,43 +4,59 @@ body {
     padding: 0;
     font-family: 'Arial', sans-serif;
     background: linear-gradient(45deg, #ff6f61, #007bff); /* Vibrant gradient background */
-    min-height: 100vh; /* Ensure body takes up at least the height of the viewport */
+    min-height: 100vh;
     display: flex;
-    flex-direction: column; /* Arrange content in a column layout */
+    flex-direction: column;
 }
 
 /* Navigation */
-nav ul, footer ul {
-    padding: 0;
-    list-style: none;
+nav {
+    background-color: #333; /* Dark background color */
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
 }
 
-nav ul li, footer ul li {
-    display: inline;
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
     margin-right: 20px;
 }
 
-a {
-    text-decoration: none;
-    color: #555;
-    transition: color 0.3s;
+nav ul li:last-child {
+    margin-right: 0;
 }
 
-a:hover {
-    color: #007bff;
+nav ul li a {
+    text-decoration: none;
+    color: #fff; /* White color for links */
+    padding: 10px 20px; /* Padding around links */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition on hover */
+}
+
+nav ul li a:hover {
+    background-color: #007bff; /* Darker background color on hover */
+    color: #fff; /* White text color on hover */
 }
 
 /* Headings */
 h1 {
     font-size: 3em;
-    color: #333;
+    color: #fff; /* White color for headings */
+    text-align: center;
 }
 
 /* Paragraphs */
 p {
     font-size: 1.2em;
     line-height: 1.6em;
-    color: #666;
+    color: #fff; /* White color for paragraphs */
 }
 
 /* Footer */
@@ -49,8 +65,8 @@ footer {
     font-size: 0.9em;
     padding: 20px 0;
     text-align: center;
-    background: linear-gradient(45deg, #ff6f61, #007bff); /* Same gradient background as body */
-    margin-top: auto; /* Push footer to the bottom of the page */
+    background: linear-gradient(45deg, #ff6f61, #007bff);
+    margin-top: auto;
 }
 
 footer ul {
@@ -64,11 +80,11 @@ footer ul li {
 }
 
 footer a {
-    color: #fff; /* White color for footer links */
+    color: #fff;
 }
 
 footer a:hover {
-    color: #f0f0f0; /* Lighter color on hover */
+    color: #f0f0f0;
 }
 
 /* Post List */
