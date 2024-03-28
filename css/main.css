@@ -1,23 +1,13 @@
+/* Body */
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 0;
+    padding: 0;
     font-family: 'Arial', sans-serif;
-    background-color: #f5f5f5;
+    background-color: #f5f5f5; /* Fallback color */
     background-image: linear-gradient(45deg, #ff6f61, #007bff); /* Vibrant gradient background */
-    background-repeat: repeat;
 }
 
-.container {
-    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background for content */
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-}
-
-
-
-
-/* Navigation and Footer */
+/* Navigation */
 nav ul, footer ul {
     padding: 0;
     list-style: none;
@@ -30,24 +20,25 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: #ff6f61; /* Vibrant red link color */
+    color: #555;
     transition: color 0.3s;
 }
 
 a:hover {
-    color: #007bff; /* Blue color on hover */
+    color: #007bff;
 }
 
-/* Headings and Paragraphs */
+/* Headings */
 h1 {
     font-size: 3em;
-    color: #333; /* Darker heading color */
+    color: #333;
 }
 
+/* Paragraphs */
 p {
     font-size: 1.2em;
     line-height: 1.6em;
-    color: #666; /* Dark gray paragraph color */
+    color: #666;
 }
 
 /* Footer */
@@ -69,7 +60,7 @@ ul.posts {
 
 ul.posts li {
     margin-bottom: 20px;
-    background-color: #fff; /* White background for posts */
+    background-color: #fff;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;

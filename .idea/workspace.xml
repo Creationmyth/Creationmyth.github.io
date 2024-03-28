@@ -78,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616237389733</updated>
-      <workItem from="1711647430983" duration="1425000" />
+      <workItem from="1711647430983" duration="1854000" />
     </task>
     <task id="LOCAL-00001" summary="my first own commit">
       <created>1616238500730</created>
@@ -160,7 +160,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711648826984</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updating CSS of the file">
+      <option name="closed" value="true" />
+      <created>1711648886919</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711648886919</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updating CSS of the file">
+      <option name="closed" value="true" />
+      <created>1711649029591</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711649029591</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
