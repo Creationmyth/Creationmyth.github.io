@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2fb7769-ffb7-4ee9-80bb-2b54393bdeaa" name="Default Changelist" comment="Made the layout better">
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f2fb7769-ffb7-4ee9-80bb-2b54393bdeaa" name="Default Changelist" comment="Change the nav bar to math series from CV" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616237389733</updated>
-      <workItem from="1711647430983" duration="4737000" />
+      <workItem from="1711647430983" duration="5070000" />
     </task>
     <task id="LOCAL-00001" summary="my first own commit">
       <created>1616238500730</created>
@@ -331,7 +327,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711658100526</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Change the nav bar to math series from CV">
+      <option name="closed" value="true" />
+      <created>1711713354708</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1711713354708</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Change the nav bar to math series from CV">
+      <option name="closed" value="true" />
+      <created>1711713547831</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1711713547831</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,7 +362,8 @@
     <MESSAGE value="Made it more friendly to phone users" />
     <MESSAGE value="Made the list of blog posts more attractive" />
     <MESSAGE value="Made the layout better" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made the layout better" />
+    <MESSAGE value="Change the nav bar to math series from CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change the nav bar to math series from CV" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
